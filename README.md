@@ -55,7 +55,7 @@ You can add or update content by editing the respective HTML files (e.g., index.
 Contributing
 Feel free to contribute by opening issues or submitting pull requests to improve functionality or UI design.
 
-License
+**License**
 This project is open source and available under the MIT License.
 
 sql
