@@ -43,18 +43,14 @@ shipment-website/
 │   └── styles.css      # Custom CSS for the site
 └── assets/
     └── images/         # Folder for images
-    ```
 
 
 ### Customization
-```
 Modify the css/styles.css file to change the look and feel of the site.
 You can add or update content by editing the respective HTML files (e.g., index.html, services.html, etc.).
 Contributing
 Feel free to contribute by opening issues or submitting pull requests to improve functionality or UI design. 
-```
 
 ### License
-```
+
 This version includes everything in one file, with the folder structure neatly included under the "Folder Structure" section.
-```
