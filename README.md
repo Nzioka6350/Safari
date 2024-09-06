@@ -29,10 +29,10 @@ To view or edit this project, you only need:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/shipment-website.git
+   git clone https://github.com/Nzioka6350/Safari.git
     ```
 ### Folder Structure
-shipment-website/
+Safari/
 │
 ├── index.html          # Main homepage
 ├── services.html       # Shipment services page
