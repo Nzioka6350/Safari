@@ -32,7 +32,7 @@ To view or edit this project, you only need:
    git clone https://github.com/Nzioka6350/Safari.git
     ```
 ### Folder Structure
-Safari/
+shipment-website/
 │
 ├── index.html          # Main homepage
 ├── services.html       # Shipment services page
@@ -42,6 +42,7 @@ Safari/
 │   └── styles.css      # Custom CSS for the site
 └── assets/
     └── images/         # Folder for images
+
 
 ### Customization
 Modify the css/styles.css file to change the look and feel of the site.
