@@ -28,16 +28,10 @@ To view or edit this project, you only need:
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/shipment-website.git
-Open the project folder:
-
-bash
-Copy code
-cd shipment-website
-Open index.html in your web browser to view the website.
-
-**Folder Structure**
+    ```
+### Folder Structure
 shipment-website/
 │
 ├── index.html          # Main homepage
@@ -49,7 +43,7 @@ shipment-website/
 └── assets/
     └── images/         # Folder for images
 
-**Customization**
+### Customization
 Modify the css/styles.css file to change the look and feel of the site.
 You can add or update content by editing the respective HTML files (e.g., index.html, services.html, etc.).
 Contributing
