@@ -49,6 +49,6 @@ You can add or update content by editing the respective HTML files (e.g., index.
 Contributing
 Feel free to contribute by opening issues or submitting pull requests to improve functionality or UI design. 
 
-**License**
+### License
 
 This version includes everything in one file, with the folder structure neatly included under the "Folder Structure" section.
