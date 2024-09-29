@@ -1,5 +1,5 @@
 /* Navigation styles */
-.navigation {
+navigation {
     position: fixed; /* Makes the navigation float on top */
     top: 0;
     width: 100%;
@@ -12,15 +12,14 @@
   }
   
   /* Navigation link styles */
-  .navigation a {
+  navigation a {
     color: white;
     text-decoration: none;
     font-size: 1.2rem;
   }
-.hero{
-    background-image: url('https://source.unsplash.com/1600x900/?nature,water');
+#hero{
     height: 100vh; /* 100% of the viewport height */
-    background-image: url('hero-image.jpg'); /* Replace with your image */
+    background-image: url('./assets/pexels-mdx014-799091.jpg'); /* Replace with your image */
     background-size: cover;
     background-position: center;
     display: flex;
