@@ -3,6 +3,16 @@
     padding: 20px;
     
 }
-hero{
-    background-image: url('https://source.unsplash.com/1600x900/?nature,water
+.hero{
+    background-image: url('https://source.unsplash.com/1600x900/?nature,water');
+    height: 100vh; /* 100% of the viewport height */
+    background-image: url('hero-image.jpg'); /* Replace with your image */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
 }
