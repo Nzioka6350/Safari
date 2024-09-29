@@ -1,5 +1,5 @@
 /* Navigation styles */
-navigation {
+#navigation {
     position: fixed; /* Makes the navigation float on top */
     top: 0;
     width: 100%;
@@ -12,7 +12,7 @@ navigation {
   }
   
   /* Navigation link styles */
-  navigation a {
+  #navigation a {
     color: white;
     text-decoration: none;
     font-size: 1.2rem;
@@ -29,3 +29,7 @@ navigation {
     color: white;
     text-align: center;
 }
+#hero h1{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    }
