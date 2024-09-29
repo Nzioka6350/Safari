@@ -1,8 +1,22 @@
-.navigation{
-    background-color: #f0f0f0;
-    padding: 20px;
-    
-}
+/* Navigation styles */
+.navbar {
+    position: fixed; /* Makes the navigation float on top */
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0;
+    z-index: 1000; /* Ensures the nav stays on top */
+  }
+  
+  /* Navigation link styles */
+  .navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
 .hero{
     background-image: url('https://source.unsplash.com/1600x900/?nature,water');
     height: 100vh; /* 100% of the viewport height */
