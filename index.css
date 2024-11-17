@@ -8,8 +8,7 @@
     display: flex;
     justify-content: space-around;
     padding: 1rem 0;
-    z-index: 1000; /* Ensures the nav stays on top */
-    
+    z-index: 1000; /* Ensures the nav stays on top */ 
   }
   
   /* Navigation link styles */
