@@ -1,56 +1,70 @@
-# Shipment Website
+# Getting Started with Create React App
 
-A simple shipment website built using HTML, CSS, and Bootstrap. This project demonstrates basic web design concepts and responsive design principles using Bootstrap.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
+## Available Scripts
 
-- Responsive design with Bootstrap
-- Shipment tracking page for users to track their shipments
-- Contact form for customer inquiries
-- Services section showcasing available shipment options
-- Simple and clean user interface
+In the project directory, you can run:
 
-## Technologies Used
+### `npm start`
 
-- **HTML5**: For structuring the content of the website.
-- **CSS3**: For adding custom styles and layout.
-- **Bootstrap 5**: For responsive design and pre-built UI components to speed up development.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Getting Started
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Prerequisites
+### `npm test`
 
-To view or edit this project, you only need:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- A web browser (Chrome, Firefox, Edge, etc.)
-- A code editor (VSCode, Sublime, Atom, etc.)
+### `npm run build`
 
-### Installation
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/Nzioka6350/Safari.git
-    ```
-### Folder Structure
-```
-shipment-website/
-│
-├── index.html          # Main homepage
-├── services.html       # Shipment services page
-├── track-shipment.html # Shipment tracking page
-├── contact.html        # Contact form page
-├── css/
-│   └── styles.css      # Custom CSS for the site
-└── assets/
-    └── images/         # Folder for images
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Customization
-Modify the css/styles.css file to change the look and feel of the site.
-You can add or update content by editing the respective HTML files (e.g., index.html, services.html, etc.).
-Contributing
-Feel free to contribute by opening issues or submitting pull requests to improve functionality or UI design. 
+### `npm run eject`
 
-### License
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-This version includes everything in one file, with the folder structure neatly included under the "Folder Structure" section.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
