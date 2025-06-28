@@ -7,11 +7,22 @@
   background-color: white;
   padding: 0 20px;
   position: sticky;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   top: 0;
+  z-index: 1000;
 }
 .logo {
   height: 90px;
-  object-fit: cover;
-  padding-left: 20px;
+  width: auto;
+}
+.navbar-left{
+  display: flex;
+ align-items: center;
+  gap: 1rem;
+}
+.navbar-left span{
+  color: red;
+  font-style: italic;
 }
 ul {
   display: flex;
