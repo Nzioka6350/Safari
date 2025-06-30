@@ -1,0 +1,93 @@
+.footer {
+  background-color: #07041e;
+  color: white;
+  padding: 40px 60px 20px;
+  font-family: 'Arial', sans-serif;
+  position: relative;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.footer-section {
+  flex: 1;
+  min-width: 200px;
+}
+
+.footer-section h3 {
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.footer-section p,
+.footer-section a {
+  color: #ccc;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.footer-section .icon {
+  margin-right: 8px;
+}
+
+.footer-section .social-icon {
+  color: white;
+  font-size: 20px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+  color: #ccc;
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+.footer-section ul li a:hover {
+  color: white;
+}
+
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.footer-bottom a {
+  color: #ccc;
+  text-decoration: underline;
+}
+
+hr {
+  margin: 30px 0 10px;
+  border: 0.5px solid #222;
+}
+
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: white;
+  font-size: 24px;
+  padding: 15px;
+  border-radius: 50%;
+  z-index: 1000;
+  text-align: center;
+}
