@@ -16,6 +16,8 @@
 .footer-section {
   flex: 1;
   min-width: 200px;
+  display: flex;
+  flex-direction: column;
 }
 
 .footer-section h3 {
@@ -79,15 +81,3 @@ hr {
   border: 0.5px solid #222;
 }
 
-.whatsapp-float {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background-color: #25d366;
-  color: white;
-  font-size: 24px;
-  padding: 15px;
-  border-radius: 50%;
-  z-index: 1000;
-  text-align: center;
-}
